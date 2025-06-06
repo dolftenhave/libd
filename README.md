@@ -9,3 +9,7 @@ This git repo contains data structures and some other algarithms written in rust
 - Queue
 - Deque
 - Linked list 
+
+## Appendeces
+
+[Rust Documentation conventions](https://github.com/rust-lang/rfcs/blob/master/text/1574-more-api-documentation-conventions.md#appendix-a-full-conventions-text)
